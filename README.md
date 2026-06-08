@@ -1,12 +1,12 @@
 # Hi, I'm Omphulusa Stoki 👋
 
-I'm a 2nd Year Computer Science student at the University of the Witwatersrand, a Moshal Scholar, and a Moshal IT Trainer.
+I'm a Computer Science student at the University of the Witwatersrand, a Moshal Scholar, and a Moshal IT Trainer.
 
 I'm passionate about software development, web development, mobile app development, databases, and solving real-world problems through technology.
 
 ## 🚀 About Me
 
-* 🎓 2nd Year Computer Science Student at Wits
+* 🎓 Computer Science Student at Wits
 * 💙 Moshal Scholar
 * 👨‍🏫 Moshal IT Trainer
 * 💻 Aspiring Software Developer
